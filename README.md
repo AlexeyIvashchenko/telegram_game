@@ -1,1 +1,1 @@
-# telegram_game
+A game in a telegram-bot, where you act as a defender of the city and must train to repel the attack of evil mages. The libraries used are pytelegrambotapi - for communication and working with telegram, s_taper for working with DB
